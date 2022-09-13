@@ -25,6 +25,9 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react-logo" height=70 width=70/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript-logo" height=70 width=70/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5-logo" height=70 width=70/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css4-logo" height=70 width=70/>&nbsp;
+  
 </div>
 <!--
 **SebastienBielecki/SebastienBielecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
