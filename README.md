@@ -21,13 +21,14 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react-logo" height=70 width=70/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs-logo" height=70 width=70/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript-logo" height=70 width=70/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5-logo" height=70 width=70/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css4-logo" height=70 width=70/>&nbsp;
+  <img src="https://download.logo.wine/logo/Solidity/Solidity-Logo.wine.png" alt="solidity-logo" height=70 width=70/>&nbsp;
   
 </div>
 <!--
