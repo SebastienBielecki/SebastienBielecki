@@ -18,6 +18,12 @@
 ---
 
 ### :man_technologist: About me
+- Leveling-up on Solidity
+- Passionate about Web 3
+- Willing to learn abut Zero Knowledge Proof
+- Proud participant of Ethereum Mexico Hackaton (August 2022) and recipient of Honor Prize from Lens Protocol
+- Founder of Krosrods, a social network for artists, venues and public to help them organize events easily, currently launched in Mexico. https://www.krosrods.com
+
 
 ---
 
@@ -39,13 +45,15 @@
   <img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku-logo" />
   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira-logo"/>
   <img src="https://img.shields.io/badge/webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="webflow"/>
-  
+</div>
   
 ---
-  
 
+### :fire: My Github stats:
   
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sebastienbielecki&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienbielecki&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
