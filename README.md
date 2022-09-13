@@ -21,16 +21,28 @@
 
 ---
 
-### :hammer_and_wrench: Languages:
+### :hammer_and_wrench: Tech stack:
 <div style="background-color: grey;">
-  <img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=white%22"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react-logo" height=70 width=70/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs-logo" height=70 width=70/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript-logo" height=70 width=70/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5-logo" height=70 width=70/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css4-logo" height=70 width=70/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity-logo" height=70 width=70/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" height=70 width=70/>&nbsp;
+  <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white%22" alt="javascript-logo"/>
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white%22" alt="react-logo"/>
+  <img src="https://img.shields.io/badge/react%20router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="react router logo"/>
+  <img src="https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=white%22" alt="node.js logo"/>
+  <img src="https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=white%22" alt="express-logo"/>
+  <img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=white%22" alt="solidity-logo"/>
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=#1572B6%22" alt="css-logo"/>
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap logo" />
+  <img src="https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5&logoColor=white%22" alt="html5-logo"/>
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb-logo"/>
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman-logo"/>
+  <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify-logo"/>
+  <img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku-logo" />
+  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira-logo/>
+  <img src="https://img.shields.io/badge/webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="webflow"/>
+  
+  
+---
+  
+
   
 </div>
 
