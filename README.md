@@ -23,6 +23,7 @@
 
 ### :hammer_and_wrench: Languages:
 <div style="background-color: grey;">
+  <img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=white%22"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react-logo" height=70 width=70/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs-logo" height=70 width=70/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript-logo" height=70 width=70/>&nbsp;
