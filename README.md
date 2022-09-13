@@ -22,7 +22,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react-logo" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react-logo" height=70 width=70/>
 
 <!--
 **SebastienBielecki/SebastienBielecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
