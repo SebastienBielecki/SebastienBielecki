@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=white%22" alt="node.js logo"/>
   <img src="https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=white%22" alt="express-logo"/>
   <img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=white%22" alt="solidity-logo"/>
+  <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethereum-logo"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=#1572B6%22" alt="css-logo"/>
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap logo" />
   <img src="https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5&logoColor=white%22" alt="html5-logo"/>
@@ -36,7 +37,7 @@
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman-logo"/>
   <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify-logo"/>
   <img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku-logo" />
-  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira-logo/>
+  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira-logo"/>
   <img src="https://img.shields.io/badge/webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="webflow"/>
   
   
@@ -46,12 +47,7 @@
   
 </div>
 
-### :hammer_and_wrench: No-code platforms:
-<div style="align-items: center">
-  <img src="https://getlogovector.com/wp-content/uploads/2021/08/bubble-io-logo-vector.png" alt="react-logo" height="70" width="100"/>&nbsp;
-  <img src="https://seeklogo.com/images/W/webflow-logo-B378445467-seeklogo.com.png" alt="webflow-logo" height="60" width="160"/>&nbsp;
-  
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienbielecki&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SebastienBielecki/SebastienBielecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
