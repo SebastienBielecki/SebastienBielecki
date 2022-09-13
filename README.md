@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/sebastien-bielecki/" target="_blank">
+  <a href="https://www.linkedin.com/in/sebastien-bielecki/" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </ a>
   <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
