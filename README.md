@@ -23,9 +23,11 @@
 ### :man_technologist: About me
 - Leveling-up on Solidity
 - Passionate about Web 3
-- Willing to learn abut Zero Knowledge Proof
+- Willing to learn about Zero Knowledge Proof. If you have resources to recommend me in that journey (docs, courses), feel free to share it with me.
 - Participant of Ethereum Mexico Hackaton (August 2022) and recipient of Honor Prize from Lens Protocol for the tickets.xyz project (event tickets issuance as NFTS). See project at https://ethglobal.com/showcase/tickets-xyz-d48ty
 - Founder of Krosrods, a social network for artists, venues and public to help them organize events easily, currently launched in Mexico. https://www.krosrods.com
+- Personal project: Training Companion, a sport app for Coaches to build and send easily tailored workouts to their athletes, according to their level and prefered sport (running, cycling, swimming, etc...)
+https://www.trainingcompanion.app
 
 
 ---
