@@ -15,6 +15,10 @@
     <img src="https://komarev.com/ghpvc/?username=SebastienBielecki&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
+
+### :man_technologist: About me
+
 <!--
 **SebastienBielecki/SebastienBielecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
