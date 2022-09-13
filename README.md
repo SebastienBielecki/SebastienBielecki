@@ -5,6 +5,9 @@
 
 
   <div id="badges">
+    <div>
+      Contact me on:
+    </div>
     <a href="https://www.linkedin.com/in/sebastien-bielecki/" target="_blank" rel="noreferrer noopener">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -21,7 +24,7 @@
 - Leveling-up on Solidity
 - Passionate about Web 3
 - Willing to learn abut Zero Knowledge Proof
-- Proud participant of Ethereum Mexico Hackaton (August 2022) and recipient of Honor Prize from Lens Protocol
+- Participant of Ethereum Mexico Hackaton (August 2022) and recipient of Honor Prize from Lens Protocol for the tickets.xyz project (event tickets issuance as NFTS). See project at https://ethglobal.com/showcase/tickets-xyz-d48ty
 - Founder of Krosrods, a social network for artists, venues and public to help them organize events easily, currently launched in Mexico. https://www.krosrods.com
 
 
