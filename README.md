@@ -70,6 +70,7 @@
   <img src="https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=white%22" alt="express-logo"/>
   <img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=white%22" alt="solidity-logo"/>
   <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethereum-logo"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white&style=for-the-badge" alt="web3-logo"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=#1572B6%22" alt="css-logo"/>
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap logo" />
   <img src="https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5&logoColor=white%22" alt="html5-logo"/>
