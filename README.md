@@ -30,7 +30,10 @@
 
 ### :man_technologist: About me
 <ul>
-  <li>Leveling-up on Solidity</li>
+  <li>I'm currently undertaking the 
+  <a href="https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309">Udacity Blockchain Developper Nanodegree</a>
+  
+  </li>
 <li>Passionate about Web 3</li>
 <li>Willing to learn about Zero Knowledge Proof. If you have resources to recommend me in that journey (docs, courses), feel free to share it with me.</li>
 <li>Participant of Ethereum Mexico Hackaton (August 2022) and recipient of Honor Prize from Lens Protocol for the tickets.xyz project (event tickets issuance as NFTS). See project at https://ethglobal.com/showcase/tickets-xyz-d48ty
