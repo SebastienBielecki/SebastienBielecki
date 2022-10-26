@@ -32,7 +32,7 @@
 <ul>
   <li>I'm currently undertaking the 
   <a href="https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309">Udacity Blockchain Developper Nanodegree</a>
-  
+   (70% complete, targeting to finish by December 2022)
   </li>
 <li>Passionate about Web 3</li>
 <li>Willing to learn about Zero Knowledge Proof. If you have resources to recommend me in that journey (docs, courses), feel free to share it with me.</li>
