@@ -60,6 +60,8 @@
   </div>
  </li>
   <li>My current residency is Mexico</li>
+  <li>I'm a Telecom and Computer Science Engineer, graduated from <a href="https://www.centralesupelec.fr/en">Centrale-Supélec</a>, France</li>
+  
 </ul>
 
 ---
