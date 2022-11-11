@@ -34,8 +34,7 @@
   <a href="https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309">Udacity Blockchain Developper Nanodegree</a>
    (70% complete, targeting to finish by December 2022)
   </li>
-<li>Passionate about Web 3</li>
-<li>Willing to learn about Zero Knowledge Proof. If you have resources to recommend me in that journey (docs, courses), feel free to share it with me.</li>
+<li>Passionate about Web 3 and Blockchain</li>
 <li>Participant of Ethereum Mexico Hackaton (August 2022) and recipient of Honor Prize from Lens Protocol for the tickets.xyz project (event tickets issuance as NFTS). See project at https://ethglobal.com/showcase/tickets-xyz-d48ty
   <div align="center">
     <a href="https://www.krosrods.com">
