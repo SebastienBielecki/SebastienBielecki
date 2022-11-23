@@ -30,11 +30,12 @@
 
 ### :man_technologist: About me
 <ul>
-  <li>I'm currently undertaking the 
-  <a href="https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309">Udacity Blockchain Developper Nanodegree</a>
-   (70% complete, targeting to finish by December 2022)
-  </li>
-<li>Passionate about Web 3 and Blockchain</li>
+  <li>Passionate about Web 3 and Blockchain</li>
+<li>
+  <a href="https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309">Blockchain Developper</a>
+  Udacity
+  <a href="https://graduation.udacity.com/confirm/WUZE9ED9">nanodegree</a> 
+ </li>
 <li>Participant of Ethereum Mexico Hackaton (August 2022) and recipient of Honor Prize from Lens Protocol for the tickets.xyz project (event tickets issuance as NFTS). See project at https://ethglobal.com/showcase/tickets-xyz-d48ty
   <div align="center">
     <a href="https://www.krosrods.com">
@@ -75,11 +76,13 @@
   <img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=white%22" alt="solidity-logo"/>
   <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethereum-logo"/>
   <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white&style=for-the-badge" alt="web3-logo"/>
+  <img src="https://img.shields.io/badge/truffle-orange?style=for-the-badge" alt="truffle"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=#1572B6%22" alt="css-logo"/>
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap logo" />
   <img src="https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5&logoColor=white%22" alt="html5-logo"/>
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb-logo"/>
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman-logo"/>
+  <img src="https://img.shields.io/badge/mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt ="mocha-logo"/>
   <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify-logo"/>
   <img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku-logo" />
   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira-logo"/>
