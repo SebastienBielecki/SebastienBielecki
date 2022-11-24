@@ -5,7 +5,7 @@
   <h1>Hi there 👋, I'm Sébastien.</h1>
   <h3>Full-stack MERN Software Engineer</h3>
   <h3>Blockchain & Smart Contract developer</h3>
-  <h4>Scrum Certified</h4>
+  <h3>Scrum Certification</h3>
   <br/><br/><br/>
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -78,6 +78,7 @@
   <img src="https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=white%22" alt="solidity-logo"/>
   <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethereum-logo"/>
   <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white&style=for-the-badge" alt="web3-logo"/>
+  <img src="https://img.shields.io/badge/remix-2A2B3F?logoColor=white&style=for-the-badge" alt="remix"
   <img src="https://img.shields.io/badge/truffle-orange?style=for-the-badge" alt="truffle"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=#1572B6%22" alt="css-logo"/>
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap logo" />
