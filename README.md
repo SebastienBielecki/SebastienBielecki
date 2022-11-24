@@ -3,7 +3,9 @@
 <div id="header" align="center">
   
   <h1>Hi there 👋, I'm Sébastien.</h1>
-  <h3>I am a full-stack developer.</h3>
+  <h3>Full-stack MERN Software Engineer</h3>
+  <h3>Blockchain & Smart Contract developer</h3>
+  <h4>Scrum Certified</h4>
   <br/><br/><br/>
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
