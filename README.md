@@ -33,6 +33,7 @@
 ### :man_technologist: About me
 <ul>
   <li>Passionate about Web 3 and Blockchain</li>
+  <li>Currently learning Scala</li>
 <li>
   <a href="https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309">Blockchain Developper</a>
   Udacity
