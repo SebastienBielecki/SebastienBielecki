@@ -91,6 +91,7 @@
   <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify-logo"/>
   <img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku-logo" />
   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira-logo"/>
+  <img src="https://img.shields.io/badge/bubble.io-0325D2?style=for-the-badge" alt="bubble"/>
   <img src="https://img.shields.io/badge/webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="webflow"/>
 </div>
   
